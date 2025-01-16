@@ -1,9 +1,9 @@
 [[mmtk_julia]]
 arch = "x86_64"
-git-tree-sha1 = "e12ecc6319d19143c5ba8447675257d434d6dbd5"
+git-tree-sha1 = "3efa8e9582a78cde6667d2c2813973c6ed4af645"
 libc = "glibc"
 os = "linux"
 
     [[mmtk_julia.download]]
-    sha256 = "9f5bd0f17ffd6dc930138437ae7616b7f663ac150cae8333669829464d9d46b8"
-    url = "https://github.com/JuliaBinaryWrappers/mmtk_julia_jll.jl/releases/download/mmtk_julia-v0.30.2+0/mmtk_julia.v0.30.2.x86_64-linux-gnu.tar.gz"
+    sha256 = "542f8c59ea4d5ee65eeade8ebf76dbb0be6d5cb77de208a21439240552e9f638"
+    url = "https://github.com/JuliaBinaryWrappers/mmtk_julia_jll.jl/releases/download/mmtk_julia-v0.30.2+1/mmtk_julia.v0.30.2.x86_64-linux-gnu.tar.gz"

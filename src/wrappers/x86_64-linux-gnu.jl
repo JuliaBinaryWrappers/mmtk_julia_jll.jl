@@ -10,7 +10,7 @@ function __init__()
     JLLWrappers.@init_library_product(
         libmmtk_julia,
         "lib/libmmtk_julia.so",
-        RTLD_LAZY | RTLD_DEEPBIND,
+        nothing,
     )
 
     JLLWrappers.@init_file_product(
